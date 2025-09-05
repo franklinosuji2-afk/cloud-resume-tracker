@@ -77,7 +77,7 @@ cloud-resume-tracker/
    - Reads/Writes visitor count from **DynamoDB**.
    - Returns the updated count to the frontend.
 4. The frontend updates the **visitor count on the resume**.
-5. **GitHub Actions** handles CI/CD — automatically deploying updates.
+5. **GitHub Actions** handles CI/CD automatically deploying updates.
 6. **Terraform** defines and manages all infrastructure resources.
 
 
