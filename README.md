@@ -1,6 +1,4 @@
 HEAD
-# cloud-resume-tracker
-=======
 # Cloud Resume Tracker 🚀
 
 A portfolio project demonstrating **Cloud + DevOps skills**:
