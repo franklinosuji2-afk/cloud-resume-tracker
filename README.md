@@ -147,6 +147,10 @@ git rebase --continue
 8. Push project successfully
 git push -u origin main
 
+## Live Site
+
+My Cloud Resume Tracker is hosted on **AWS S3 + CloudFront**:  
+[View Live Resume](http://cloud-resume-franklinosuji.s3-website.eu-central-1.amazonaws.com)
 
 
 
