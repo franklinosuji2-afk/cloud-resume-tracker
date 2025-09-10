@@ -1,7 +1,9 @@
-HEAD
-# Cloud Resume Tracker 🚀
+Cloud Resume Tracker 🚀
 
-A portfolio project demonstrating **Cloud + DevOps skills**:
+This project is my implementation of the **Cloud Resume Challenge** a serverless, cloud-native resume website built on **AWS**.  
+It showcases my skills in DevOps, serverless architecture, and CI/CD automation.
+
+A portfolio project demonstrating *Cloud + DevOps skills*
 
 - AWS S3 + CloudFront → host static resume website
 - AWS Lambda + API Gateway + DynamoDB → visitor counter
@@ -16,7 +18,7 @@ A portfolio project demonstrating **Cloud + DevOps skills**:
 
 ##  How to Deploy
 1. Clone repo & `cd terraform`
-2. Run `terraform init && terraform apply`
+2. Run `terraform init && terraform apply´
 3. Upload `frontend/` to S3
 4. Open the CloudFront URL 
 
@@ -24,13 +26,6 @@ A portfolio project demonstrating **Cloud + DevOps skills**:
 - AWS (S3, CloudFront, Lambda, DynamoDB, API Gateway)
 - Terraform
 - GitHub Actions
-# Cloud Resume Tracker
-
-This is my cloud project. 6142b44 (Initial commit: Cloud Resume Tracker project)
-
-# 🌐 Cloud Resume Tracker
-This project is inspired by the popular *Cloud Resume Challenge*. 
-It is a serverless web application that showcases my resume *and tracks visitors in real-time* using AWS cloud services.
 
 # 🚀 Project Overview
 The Cloud Resume Tracker is designed to:
@@ -147,10 +142,20 @@ git rebase --continue
 8. Push project successfully
 git push -u origin main
 
-## Live Site
 
-My Cloud Resume Tracker is hosted on **AWS S3 + CloudFront**:  
-[View Live Resume](http://cloud-resume-franklinosuji.s3-website.eu-central-1.amazonaws.com)
+📝 Author
+
+Franklin Osuji  
+- LinkedIn: [Franklin Osuji](https://www.linkedin.com/in/franklin-osuji-a96003321/)  
+- GitHub: [franklinosuji2-afk]
+- Email: franklin.osuji2@gmail.com
+
+-  📜 License
+
+  This project is licensed under the MIT License see the [LICENSE](LICENSE) file for details.
+
+
+
 
 
 
