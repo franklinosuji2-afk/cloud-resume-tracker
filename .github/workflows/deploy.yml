@@ -1,3 +1,5 @@
+cd /home/user/cloud-resume-tracker && cat .github/workflows/deploy.yml
+session: default
 name: Deploy Infrastructure
 
 on:
