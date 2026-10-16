@@ -1,8 +1,7 @@
 name: Deploy Infrastructure
 
+# Manual only: applying Terraform with stored access keys on every push is a cost and security risk.
 on:
-  push:
-    branches: ["main"]
   workflow_dispatch:
 
 jobs:
